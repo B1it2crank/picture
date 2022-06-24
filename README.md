@@ -1,2 +1,2 @@
 # picture
-picture bed
+picture
